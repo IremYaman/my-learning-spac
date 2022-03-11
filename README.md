@@ -1,1 +1,1 @@
-# my-learning-spac
+Hi, I'm İrem Yaman and I am currently learning Python.
