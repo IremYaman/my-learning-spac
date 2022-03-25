@@ -17,10 +17,10 @@ int main()
 
 int main()
 {
-	printf("%f\n", pow(2,3));    //üs alma fonksiyonu
-	printf("%f\n", sqrt(36));    //hangi sayının karesi olduğunu bulma fonksiyonu
-	printf("%f\n", ceil(32.4));  //sayıyı üste yuvarlama fonksiyonu
-	printf("%f\n", floor(32.8)); //sayıyı alta yuvarlama fonksiyonu
+	printf("%f\n", pow(2,3));    //Ã¼s alma fonksiyonu
+	printf("%f\n", sqrt(36));    //hangi sayÃ½nÃ½n karesi olduÃ°unu bulma fonksiyonu
+	printf("%f\n", ceil(32.4));  //sayÃ½yÃ½ Ã¼ste yuvarlama fonksiyonu
+	printf("%f\n", floor(32.8)); //sayÃ½yÃ½ alta yuvarlama fonksiyonu
 
 
 	
